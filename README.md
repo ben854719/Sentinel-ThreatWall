@@ -53,6 +53,23 @@ Sentinel‑ThreatWall presents a set of capabilities that highlight its focus on
 - Ensure you have the following software and frameworks installed.
 
 ## Prerequisites:
+- C++
+- Cryptography
+- Python
+- Matplotlib
+- Seaborn
+- RS256
+- HTML
+- JSON
+- LangChain
+- LangGraph
+- LangSmith
+- MCP Server
+- Gemini 3 flash
+
+
+
+  
 
 
 
