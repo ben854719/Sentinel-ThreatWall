@@ -56,8 +56,6 @@ Sentinel‑ThreatWall presents a set of capabilities that highlight its focus on
 - C++
 - Cryptography
 - Python
-- Matplotlib
-- Seaborn
 - RS256
 - HTML
 - JSON
