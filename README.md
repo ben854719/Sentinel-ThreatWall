@@ -123,7 +123,7 @@ LangSmith provides full visibility into Sentinel‑ThreatWall’s agentic analys
 
 - LangGraph executes these steps as a chain of nodes, using fallback logic to keep the workflow stable when a node fails or returns low‑confidence results. LangSmith traces   each step, surfaces performance metrics, and highlights recurring issues so the workflow can be tuned over time. Together, these components maintain consistent anomaly      detection, reliable graph‑driven insights, and stable defensive behavior under real‑world load.
 
-## How this fits your current project:
+## How this fits the project:
 
 This line describes the combined behavior of Sentinel‑ThreatWall’s C++ firewall, the agentic‑AI workflow, and the LangChain/LangGraph/LangSmith stack working as a unified defensive loop. The system continuously ingests telemetry, analyzes it through node‑based reasoning, activates fallback paths when data degrades, and exposes full traces for tuning. Together, these layers form a self‑healing, observable diagnostic system that maintains stable anomaly detection and graph‑driven insights even under real‑world network load.
 
