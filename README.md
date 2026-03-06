@@ -64,6 +64,7 @@ Sentinel‑ThreatWall presents a set of capabilities that highlight its focus on
 - LangChain
 - LangGraph
 - LangSmith
+- Agentic AI
 - MCP Server
 - Gemini 3 flash
 
