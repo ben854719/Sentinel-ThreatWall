@@ -6,6 +6,7 @@ Sentinel Threat Wall aims to provide a modern, AI assisted defensive security la
 
 ## Video of the Project:
 
+https://github.com/user-attachments/assets/cc927a7f-5d6c-4da0-b889-9e4a12bc843a
 
 ## Key Features:
 
